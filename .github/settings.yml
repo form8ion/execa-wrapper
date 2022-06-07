@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: execa-wrapper
+  description: wrapper to expose execa as a dual-mode package
+  homepage: https://npm.im/@form8ion/execa-wrapper
+  private: false
