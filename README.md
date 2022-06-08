@@ -12,7 +12,6 @@ wrapper to expose execa as a dual-mode package
 
 * [Usage](#usage)
   * [Installation](#installation)
-  * [Example](#example)
 * [Contributing](#contributing)
   * [Dependencies](#dependencies)
   * [Verification](#verification)
@@ -30,12 +29,6 @@ wrapper to expose execa as a dual-mode package
 
 ```sh
 $ npm install @form8ion/execa-wrapper --save-prod
-```
-
-### Example
-
-```javascript
-const execaWrapper = require('@form8ion/execa-wrapper');
 ```
 
 ## Contributing
